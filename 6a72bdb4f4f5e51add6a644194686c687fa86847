@@ -1,0 +1,24 @@
+src/lerobot/datasets/lerobot_dataset.py
+  fec611e9ae2bcf79 661,746-747,761
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.19",
+  "base_commit_sha": "6a72bdb4f4f5e51add6a644194686c687fa86847",
+  "prompts": {
+    "fec611e9ae2bcf79": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "156b5d35-a080-4b61-ace1-aad78dde7c40",
+        "model": "gpt-5.4-xhigh"
+      },
+      "human_author": "AdilZouitine <adilzouitinegm@gmail.com>",
+      "messages": [],
+      "total_additions": 4,
+      "total_deletions": 2,
+      "accepted_lines": 4,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/fbe75b39ea48c0ada432002921bfae82f4a03d75cc909a95673a5ae325afc16a"
+    }
+  }
+}
