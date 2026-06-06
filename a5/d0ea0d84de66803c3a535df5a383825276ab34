@@ -1,0 +1,28 @@
+tests/processor/test_pipeline.py
+  s_fa90f46875abb4::t_ff4fb5b87fd2f8 184,696,767,807,816
+  s_fa90f46875abb4::t_d785bb62df5c7d 664-695,697-766,768-806,808-815,817-834
+  s_fa90f46875abb4::t_7cb27019dbb773 179-181
+  s_fa90f46875abb4::t_6fa76a7c73f620 835-841
+  s_fa90f46875abb4::t_344dc066916e36 27,176-178,182-183,185-214
+src/lerobot/processor/pipeline.py
+  s_fa90f46875abb4::t_8faef9fea54ecd 898,902,905,1312,1363-1365
+  s_fa90f46875abb4::t_b1a14898fe7337 899-901
+  s_fa90f46875abb4::t_30e8d2798ece6f 731,737-778,967,969-970,972,974-980,982-984,986-990,992-1001
+  s_fa90f46875abb4::t_9040d2ba270ca7 282-286,344-345,347-348,350-359,361-364,366-376,378-425,433,436,441-511,513-514,516-519,521-525,527-528,530-545
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "a5d0ea0d84de66803c3a535df5a383825276ab34",
+  "prompts": {},
+  "sessions": {
+    "s_fa90f46875abb4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "43ec1698-0c4e-4259-9905-4b040f87fd19",
+        "model": "gpt-5.5"
+      },
+      "human_author": "AdilZouitine <adilzouitinegm@gmail.com>"
+    }
+  }
+}
