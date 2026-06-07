@@ -1,0 +1,23 @@
+tests/processor/test_pipeline.py
+  s_3efc4f22e70887::t_254e37442b8079 766,803-804,809,813-814
+  s_3efc4f22e70887::t_6c96f83a1286e8 700,702-703,705,751,755,817-818
+src/lerobot/processor/pipeline.py
+  s_3efc4f22e70887::t_ec757d8f7b289e 764
+  s_3efc4f22e70887::t_e45547dd5c4deb 376-386,469,472,488-489,502,505,508,516-521,523-524,526-531,534-535,552-553
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "ed890fb3de116724752ce192e06ca344ce7b2ab3",
+  "prompts": {},
+  "sessions": {
+    "s_3efc4f22e70887": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c9926fa9-353b-48fe-8e90-ab479cc97b11",
+        "model": "gpt-5.5"
+      },
+      "human_author": "AdilZouitine <adilzouitinegm@gmail.com>"
+    }
+  }
+}
