@@ -1,0 +1,19 @@
+src/lerobot/processor/pipeline.py
+  s_3efc4f22e70887::t_58102a33ad049a 892
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "187ee557b3c9b36a18ab5a21d71fc78410b2a852",
+  "prompts": {},
+  "sessions": {
+    "s_3efc4f22e70887": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "c9926fa9-353b-48fe-8e90-ab479cc97b11",
+        "model": "gpt-5.5"
+      },
+      "human_author": "AdilZouitine <adilzouitinegm@gmail.com>"
+    }
+  }
+}
